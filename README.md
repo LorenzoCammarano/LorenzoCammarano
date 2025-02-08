@@ -9,9 +9,6 @@
 🤝 Looking to collaborate on cybersecurity projects, CTFs, and security tools.
 
 📫 Feel free to connect with me here on GitHub!
-
-⚡ Fun fact: I started dismantling computers before I even knew how to put them back together!
-
 <!---
 LorenzoCammarano/LorenzoCammarano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
