@@ -10,8 +10,8 @@
 
 📫 Feel free to connect with me here on GitHub!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[LorenzoCammarano]&theme=tokyonight&show_icons=true)
-![Trofei](https://github-profile-trophy.vercel.app/?username=[LorenzoCammarano]&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Lorenzo Cammarano]&theme=tokyonight&show_icons=true)
+![Trofei](https://github-profile-trophy.vercel.app/?username=[Lorenzo Cammarano]&theme=onedark)
 
 
 
