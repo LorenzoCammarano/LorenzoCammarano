@@ -9,6 +9,12 @@
 🤝 Looking to collaborate on cybersecurity projects, CTFs, and security tools.
 
 📫 Feel free to connect with me here on GitHub!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[LorenzoCammarano]&theme=tokyonight&show_icons=true)
+![Trofei](https://github-profile-trophy.vercel.app/?username=[LorenzoCammarano]&theme=onedark)
+
+
+
 <!---
 LorenzoCammarano/LorenzoCammarano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
