@@ -12,7 +12,16 @@ I am a curious and motivated learner, always eager to grow and share knowledge. 
 **🤝 Let's Connect & Collaborate**<br>
 I am looking to collaborate on cybersecurity projects, CTF challenges, and security tools. If you're interested in cybersecurity and want to exchange ideas or work on exciting projects, feel free to reach out!
 
-**📫 Stay connected and follow my journey right here on GitHub! 🚀**
+**📫 Stay connected and follow my journey right here on GitHub! 🚀**<br>
+
+<div> <a href="mailto:lorenzocammarano1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/lorenzo-cammarano/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white"></a> </div>
+
+![GitHub followers](https://img.shields.io/github/followers/LorenzoCammarano?style=social)
+
+🌐 Tecnologie & Competenze
+<div> <img src="https://img.shields.io/badge/Linux-OS-blue?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Python-Programming-orange?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bash-Scripting-yellow?style=flat&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Cybersecurity-Defense-red?style=flat&logo=shield&logoColor=white"> </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenzoCammarano&show_icons=true&theme=dark)
 
 <!---
 LorenzoCammarano/LorenzoCammarano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
