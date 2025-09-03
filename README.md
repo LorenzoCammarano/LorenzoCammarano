@@ -1,5 +1,15 @@
+<div align="center">
+
 # CyberHackademy Student at University of Federico II in Naples, Italy. 🎓
-## 👋 Hi! Welcome to my GitHub profile! 
+
+</div>
+
+<div align="center">
+
+## 👋 Hi! Welcome to my GitHub profile!
+
+</div>
+
 
 I am deeply passionate about technology and cybersecurity, currently honing my skills at CyberHackAdemy, where I explore ethical hacking, threat analysis, and incident response.
 
