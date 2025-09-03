@@ -24,11 +24,8 @@ I am deeply passionate about technology and cybersecurity, currently honing my s
 
 > **📫 Stay connected and follow my journey right here on GitHub! 🚀**<br>
 
-<div> <a href="mailto:lorenzocammarano1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/lorenzo-cammarano/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white"></a> </div>
-
-![GitHub followers](https://img.shields.io/github/followers/LorenzoCammarano?style=social)
-
-
+<div align="center"> <a href="mailto:lorenzocammarano1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/lorenzo-cammarano/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white"></a> 
+</div>
 **🌐 Technologies & Skills**
 
 
