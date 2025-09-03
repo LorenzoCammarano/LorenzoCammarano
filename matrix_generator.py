@@ -1,4 +1,3 @@
-import requests
 from PIL import Image, ImageDraw, ImageFont
 import random
 
@@ -6,13 +5,8 @@ import random
 WIDTH, HEIGHT = 800, 400
 CELL_SIZE = 15
 FRAMES = 25
-USERNAME = "LorenzoCammarano"
 
-# Recupera i contributi dall’API GitHub
-url = f"https://github.com/users/{USERNAME}/contributions"
-svg = requests.get(url).text
-
-# Font monospace (default PIL)
+# Usa font di default
 font = ImageFont.load_default()
 frames = []
 
@@ -30,9 +24,13 @@ for frame_idx in range(FRAMES):
     frames.append(img)
 
 # Salva GIF
-frames[0].save("matrix_contributions.gif",
-               save_all=True,
-               append_images=frames[1:],
-               duration=150,
-               loop=0)
-print("✅ Matrix GIF generata con successo!")
+output_path = "matrix_contributions.gif"
+frames[0].save(
+    output_path,
+    save_all=True,
+    append_images=frames[1:],
+    duration=150,
+    loop=0
+)
+
+print("✅ Matrix GIF generata:", output_path)
