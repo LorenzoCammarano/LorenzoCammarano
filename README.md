@@ -27,6 +27,9 @@ I am deeply passionate about technology and cybersecurity, currently honing my s
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenzoCammarano&show_icons=true&theme=dark)
 
+## 🟩 Matrix Contribution Graph
+![Matrix animation](https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/main/matrix_contributions.gif)
+
 <!---
 LorenzoCammarano/LorenzoCammarano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
