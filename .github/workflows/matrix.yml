@@ -1,0 +1,34 @@
+name: Matrix Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # ogni giorno a mezzanotte
+  workflow_dispatch: # per lanciarlo a mano
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install pillow requests
+
+      - name: Run generator
+        run: |
+          python matrix_generator.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "update matrix graph" || echo "No changes to commit"
+          git push
