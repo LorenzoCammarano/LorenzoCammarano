@@ -25,10 +25,15 @@ I am deeply passionate about technology and cybersecurity, currently honing my s
 <div> <img src="https://img.shields.io/badge/Linux-OS-blue?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Python-Programming-orange?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bash-Scripting-yellow?style=flat&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Cybersecurity-Defense-red?style=flat&logo=shield&logoColor=white"> </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenzoCammarano&show_icons=true&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🟩 Matrix Contribution Graph
-![Matrix animation](https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/main/matrix_contributions.gif)
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+
 
 <!---
 LorenzoCammarano/LorenzoCammarano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
