@@ -24,6 +24,7 @@ I am deeply passionate about technology and cybersecurity, currently honing my s
 
 <div> <img src="https://img.shields.io/badge/Linux-OS-blue?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Python-Programming-orange?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bash-Scripting-yellow?style=flat&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Cybersecurity-Defense-red?style=flat&logo=shield&logoColor=white"> </div>
 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph-dark.svg">
