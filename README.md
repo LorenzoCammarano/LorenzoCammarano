@@ -1,38 +1,96 @@
 <div align="center">
-
-# CyberHackademy Student at University of Federico II in Naples, Italy. 🎓
+  
+# 👋 Hi, welcome to my GitHub Profile!
 
 </div>
+
+### 🙋‍♂️​ About Me
+Curious, motivated, and always <strong>learning by doing</strong>.  
+I started with networking and cybersecurity (<strong>Cisco</strong>), then grew my skills through and the <strong>CyberHackAdemy by University of Federico II (Naples, IT)</strong> in collaboration with <strong>Accenture</strong>.
+</p>
+
+---
+
+### 🛠️ Skills
 
 <div align="center">
 
-## 👋 Hi! Welcome to my GitHub profile!
+| 🔧 **Area**                      | 🚀 **Tools & Experience**                                                                 |
+|-----------------------------|----------------------------------------------------------------------------------------|
+| 💻 **Languages**                | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> |
+| 🌐 **Networks & Systems**       | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> |
+| 🛡️ **Offensive Security**       | <img src="https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2E6DB4?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/Hashcat-9C27B0?style=for-the-badge&logo=hashnode&logoColor=white"/> <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/> <img src="https://img.shields.io/badge/John%20The%20Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> |
+| ☁️ **Virtualization & Cloud**   | <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/> <img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?style=for-the-badge&logo=palo-alto-networks&logoColor=white"/> |
+| 📡 **IoT Security**             | <img src="https://img.shields.io/badge/IoT%20Security-30B9DB?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Wi--Fi%20Attacks%20&%20Defenses-000000?style=for-the-badge&logo=wi-fi&logoColor=white"/> <img src="https://img.shields.io/badge/Radio%20Simulations-FF9800?style=for-the-badge&logo=rtl&logoColor=white"/> |
+| 🤖 **AI & Advanced Security**   | <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4088?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/API%20Integration-00A8E8?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Fine%20Tuning-FFB300?style=for-the-badge&logo=openai&logoColor=white"/> |
+| 🧑‍💻 **Dev & Collaboration**      | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/> |
 
 </div>
 
+---
 
-I am deeply passionate about technology and cybersecurity, currently honing my skills at CyberHackAdemy, where I explore ethical hacking, threat analysis, and incident response.
+### 🌐 Learning
 
-**🔐 My Journey**<br>
-- With a strong foundation in hardware and software, I began by learning how to maintain, upgrade, and configure systems. Now, I am dedicated to specializing in cybersecurity, focusing on network security, penetration testing, and vulnerability assessment to enhance digital protection.
+<p align="center">
 
-**🌱 Continuous Learning & Collaboration**<br>
-- I am a curious and motivated learner, always eager to grow and share knowledge. I thrive in team environments and believe in collaboration as a key driver of innovation in cybersecurity.
+  <!-- Cisco Badge -->
+  <a href="https://www.credly.com/users/lorenzo-cammarano/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  </a>
+  
+  <!-- Google Cloud Skills Boost Badge -->
+  <a href="https://www.cloudskillsboost.google/public_profiles/4fa7cdea-440d-45b7-a529-1bc5cb3e20bb" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Boost"/>
+  </a>
 
-**🤝 Let's Connect & Collaborate**<br>
-- I am looking to collaborate on cybersecurity projects, CTF challenges, and security tools. If you're interested in cybersecurity and want to exchange ideas or work on exciting projects, feel free to reach out!
+  <!-- TryHackMe Badge -->
+  <a href="https://tryhackme.com/p/LoreCamma" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
+  </a>
+  
+</p>
 
-> **📫 Stay connected and follow my journey right here on GitHub! 🚀**<br>
+---
 
-<div align="center"> <a href="mailto:lorenzocammarano1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/lorenzo-cammarano/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white"></a> 
-</div>
+### 🎯 Interests
 
-**🌐 Technologies & Skills**
+<p>
+  
+ - 🛡️ **Capture The Flag (CTFs)**
+ - 🤝 **Open-source security projects**
+ - 🔍 **New cybersecurity challenges**  
 
+</p>
 
-<div> <img src="https://img.shields.io/badge/Linux-OS-blue?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Python-Programming-orange?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bash-Scripting-yellow?style=flat&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Cybersecurity-Defense-red?style=flat&logo=shield&logoColor=white"> </div>
-
+---
 <br>
+
+<div align="center">
+
+<p>
+  
+> ## 📫 Always open to collaboration ⬇️​​ Let’s hack, learn, and build together! 🚀
+<br>
+
+ <p align="center">
+   
+  <a href="mailto:lorenzocammarano1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/lorenzo-cammarano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  
+</p>
+ 
+
+</p>
+
+</div>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph-dark.svg">
@@ -40,11 +98,4 @@ I am deeply passionate about technology and cybersecurity, currently honing my s
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
-
-
-<!---
-LorenzoCammarano/LorenzoCammarano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
