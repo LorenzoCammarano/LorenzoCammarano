@@ -114,6 +114,6 @@ I started with networking and cybersecurity (<strong>Cisco</strong>), then grew 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+<sub> _Generated with <a href="https://abozanona.github.io/pacman-contribution-graph/" target="_blank">abozanona/pacman-contribution-graph</a>_ </sub>
 
 </div>
