@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, welcome to my GitHub Profile!
+# 👋 Hi, welcome to my GitHub profile!
 
 <p align="center">
   <img src="./cyber_pirate.png" alt="Cyber Pirate Banner" width="350">
@@ -23,6 +23,7 @@ I started with networking and cybersecurity (<strong>Cisco</strong>), then grew 
 
 | 🔧 Area                      | 🚀 Tools & Experience                                                                 |
 |-----------------------------|----------------------------------------------------------------------------------------|
+| 💻 Languages               | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> |
 | 🌐 Networks & Systems       | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  |
 | 🛡️ Offensive Security       | <img src="https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2E6DB4?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/Hashcat-9C27B0?style=for-the-badge&logo=hashnode&logoColor=white"/> <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/> <img src="https://img.shields.io/badge/John%20The%20Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/> <img src="https://img.shields.io/badge/AbuseIPDB-EF2D5E?style=for-the-badge&logo=datadog&logoColor=white"/> |
 | ☁️ Virtualization & Cloud   | <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/> <img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?style=for-the-badge&logo=palo-alto-networks&logoColor=white"/> |
@@ -68,7 +69,7 @@ I started with networking and cybersecurity (<strong>Cisco</strong>), then grew 
 
 <p>
   
- - 🛡️ **Capture The Flag (CTFs)**
+ - 🚩 **Capture The Flag (CTFs)**
  - 🤝 **Open-source security projects**
  - 🧠 **New cybersecurity challenges**  
 
