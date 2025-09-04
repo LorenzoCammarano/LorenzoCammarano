@@ -11,24 +11,28 @@ I started with networking and cybersecurity (<strong>Cisco</strong>), then grew 
 
 ---
 
+<div>
+  
 ### 🛠️ Skills
 
 <div align="center">
 
-| 🔧 **Area**                      | 🚀 **Tools & Experience**                                                                 |
+| 🔧 Area                      | 🚀 Tools & Experience                                                                 |
 |-----------------------------|----------------------------------------------------------------------------------------|
-| 💻 **Languages**                | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> |
-| 🌐 **Networks & Systems**       | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> |
-| 🛡️ **Offensive Security**       | <img src="https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2E6DB4?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/Hashcat-9C27B0?style=for-the-badge&logo=hashnode&logoColor=white"/> <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/> <img src="https://img.shields.io/badge/John%20The%20Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> |
-| ☁️ **Virtualization & Cloud**   | <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/> <img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?style=for-the-badge&logo=palo-alto-networks&logoColor=white"/> |
-| 📡 **IoT Security**             | <img src="https://img.shields.io/badge/IoT%20Security-30B9DB?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Wi--Fi%20Attacks%20&%20Defenses-000000?style=for-the-badge&logo=wi-fi&logoColor=white"/> <img src="https://img.shields.io/badge/Radio%20Simulations-FF9800?style=for-the-badge&logo=rtl&logoColor=white"/> |
-| 🤖 **AI & Advanced Security**   | <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4088?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/API%20Integration-00A8E8?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Fine%20Tuning-FFB300?style=for-the-badge&logo=openai&logoColor=white"/> |
-| 🧑‍💻 **Dev & Collaboration**      | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/> |
+| 🌐 Networks & Systems       | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  |
+| 🛡️ Offensive Security       | <img src="https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2E6DB4?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/Hashcat-9C27B0?style=for-the-badge&logo=hashnode&logoColor=white"/> <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/> <img src="https://img.shields.io/badge/John%20The%20Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/> <img src="https://img.shields.io/badge/AbuseIPDB-EF2D5E?style=for-the-badge&logo=datadog&logoColor=white"/> |
+| ☁️ Virtualization & Cloud   | <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/> <img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?style=for-the-badge&logo=palo-alto-networks&logoColor=white"/> |
+| 📡 IoT Security             | <img src="https://img.shields.io/badge/Wi--Fi%20Attacks%20&%20Defenses-000000?style=for-the-badge&logo=wi-fi&logoColor=white"/> <img src="https://img.shields.io/badge/Radio%20Simulations-FF9800?style=for-the-badge&logo=rtl&logoColor=white"/> |
+| 🤖 AI & Automation          | <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4088?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/API%20Integration-00A8E8?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Fine%20Tuning-FFB300?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-0DAB76?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/AnythingLLM-000000?style=for-the-badge&logo=llm&logoColor=white"/> |
+| 🧑‍💻 Dev & Collaboration      | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/> |
+
+</div>
 
 </div>
 
 ---
-
+<div>
+  
 ### 🌐 Learning
 
 <p align="center">
@@ -50,17 +54,23 @@ I started with networking and cybersecurity (<strong>Cisco</strong>), then grew 
   
 </p>
 
+</div>
+
 ---
 
-### 🎯 Interests
+<div>
+
+  ### 🎯 Interests
 
 <p>
   
  - 🛡️ **Capture The Flag (CTFs)**
  - 🤝 **Open-source security projects**
- - 🔍 **New cybersecurity challenges**  
+ - 🧠 **New cybersecurity challenges**  
 
 </p>
+
+</div>
 
 ---
 <br>
@@ -69,7 +79,7 @@ I started with networking and cybersecurity (<strong>Cisco</strong>), then grew 
 
 <p>
   
-> ## 📫 Always open to collaboration ⬇️​​ Let’s hack, learn, and build together! 🚀
+> ## 📫 Always open to collaboration ➡️​​ Let’s hack, learn, and build together! 🚀
 <br>
 
  <p align="center">
@@ -92,6 +102,8 @@ I started with networking and cybersecurity (<strong>Cisco</strong>), then grew 
 
 <br><br>
 
+<div>
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LorenzoCammarano/LorenzoCammarano/output/pacman-contribution-graph.svg">
@@ -99,3 +111,5 @@ I started with networking and cybersecurity (<strong>Cisco</strong>), then grew 
 </picture>
 
 _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+</div>
