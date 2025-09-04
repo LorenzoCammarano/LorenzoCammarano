@@ -3,14 +3,13 @@
 # 👋 Hi, welcome to my GitHub profile!
 
 <p align="center">
-  <img src="./cyber_pirate.png" alt="Cyber Pirate Banner" width="350">
+  <img src="./cyber_pirate.png" alt="Cyber Pirate Banner" width="300">
 </p>
 
 </div>
 
 ### 🙋‍♂️​ About Me
-Curious, motivated, and always <strong>learning by doing</strong>.  
-I started with networking and cybersecurity (<strong>Cisco</strong>), then grew my skills through and the <strong>CyberHackAdemy by University of Federico II (Naples, IT)</strong> in collaboration with <strong>Accenture</strong>.
+Driven by curiosity and hands-on learning, I began with networking and cybersecurity through <strong>Cisco NetAcad courses</strong>, then advanced my expertise through the <strong>CyberHackAdemy at University of Federico II (Naples, IT)</strong>, in partnership with <strong>Accenture</strong>.
 </p>
 
 ---
