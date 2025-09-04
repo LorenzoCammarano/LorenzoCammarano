@@ -2,6 +2,10 @@
   
 # 👋 Hi, welcome to my GitHub Profile!
 
+<p align="center">
+  <img src="./cyber_pirate.png" alt="Cyber Pirate Banner" width="400">
+</p>
+
 </div>
 
 ### 🙋‍♂️​ About Me
