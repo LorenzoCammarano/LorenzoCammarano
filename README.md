@@ -15,7 +15,7 @@
 ---
 
 ### 🙋‍♂️​ About Me
-Driven by curiosity and hands-on learning, I began with networking and cybersecurity through <strong>Cisco NetAcad courses</strong>, then advanced my expertise through the <strong>CyberHackAdemy at University of Federico II (Naples, IT)</strong>, in partnership with <strong>Accenture</strong>.
+Driven by **curiosity** and **hands-on learning**, I began with networking and cybersecurity through **Cisco NetAcad courses**, then advanced my expertise through the **CyberHackAdemy at University of Federico II (Naples, IT)**, in partnership with **Accenture**.
 </p>
 
 ---
