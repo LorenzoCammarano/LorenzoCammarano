@@ -2,11 +2,17 @@
   
 # 👋 Hi, welcome to my GitHub profile!
 
+</div>
+
+<div>
+
 <p align="center">
   <img src="./cyber_pirate.png" alt="Cyber Pirate Banner" width="300">
 </p>
 
 </div>
+
+---
 
 ### 🙋‍♂️​ About Me
 Driven by curiosity and hands-on learning, I began with networking and cybersecurity through <strong>Cisco NetAcad courses</strong>, then advanced my expertise through the <strong>CyberHackAdemy at University of Federico II (Naples, IT)</strong>, in partnership with <strong>Accenture</strong>.
@@ -20,7 +26,7 @@ Driven by curiosity and hands-on learning, I began with networking and cybersecu
 
 <div align="center">
 
-| 🔧 Area                      | 🚀 Tools & Experience                                                                 |
+| 🔧 Area                      | 🧰 Tools & Experience                                                                 |
 |-----------------------------|----------------------------------------------------------------------------------------|
 | 💻 Languages               | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> |
 | 🌐 Networks & Systems       | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  |
@@ -35,6 +41,7 @@ Driven by curiosity and hands-on learning, I began with networking and cybersecu
 </div>
 
 ---
+
 <div>
   
 ### 🌐 Learning
@@ -83,7 +90,7 @@ Driven by curiosity and hands-on learning, I began with networking and cybersecu
 
 <p>
   
-> ## 📫 Always open to collaboration ➡️​​ Let’s hack, learn, and build together! 🚀
+> ## 📫 Always open to collaboration ⬇️​
 <br>
 
  <p align="center">
