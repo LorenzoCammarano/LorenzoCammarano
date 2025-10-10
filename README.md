@@ -92,7 +92,7 @@ Driven by **curiosity** and **hands-on learning**, I began with networking and c
 
 <p>
   
-> ## 📫 Always open to collaboration ⬇️​
+> ## 📫 Always open to collaboration ⤵️
 <br>
 
  <p align="center">
