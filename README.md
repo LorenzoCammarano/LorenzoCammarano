@@ -46,7 +46,7 @@ Driven by **curiosity** and **hands-on learning**, I began with networking and c
 
 <div>
   
-### 🌐 Learning
+### 📚​ Learning
 
 <p align="center">
 
