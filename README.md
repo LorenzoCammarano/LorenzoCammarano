@@ -78,8 +78,22 @@ Driven by **curiosity** and **hands-on learning**, I began with networking and c
 <p>
   
  - 🚩 **Capture The Flag (CTFs)**
- - 🤝 **Open-source security projects**
+ - 🔐​ **Open-source security projects**
  - 🧠 **New cybersecurity challenges**  
+
+</p>
+
+</div>
+
+---
+
+<div>
+
+  ### 🤝​ Collaborations
+
+<p>
+  
+ - ❇️ **Cyber HackAdemy Challenge AI - Openwebui** ➡️​ [m-defazio/webui](https://m-defazio.github.io/webui)   
 
 </p>
 
