@@ -95,7 +95,7 @@ Driven by **curiosity** and **hands-on learning**, I began with networking and c
 
 <p>
   
- - ❇️ **Cyber HackAdemy Challenge AI - Openwebui** ➡️​ [m-defazio/webui](https://m-defazio.github.io/webui)   
+ - ❇️ **Cyber HackAdemy Challenge AI - Openwebui** ➡️​ https://github.com/m-defazio/webui  
 
 </p>
 
